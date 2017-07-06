@@ -1,4 +1,0 @@
-This is a demo text file.
-this is another line.
-we love vim editor.
-this is one more line.
